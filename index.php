@@ -8,11 +8,13 @@
   <head>
     <meta charset="UTF-8">
     <title>Perhekalenteri</title>
-  
     <style type="text/css">
       body {
        background-color: #b8bac8;
        }
+      footer {
+      font-size: 80%;
+      }
      </style>
   </head>
   <body>
