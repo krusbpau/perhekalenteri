@@ -5,6 +5,9 @@
     "bebasneue" => array(
       "name" => "Bebas Neue",
       "url"  => "https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap"),
+    "fuzzybubbles" => array (
+      "name" => "Fuzzy Bubbles",
+      "url"  => "https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&display=swap"), 
     "leckerlione" => array(
       "name" => "Leckerli One",
       "url"  => "https://fonts.googleapis.com/css2?family=Leckerli+One&display=swa"),
